@@ -1,5 +1,4 @@
 from faker import Faker #1
-
 fake = Faker()
 print(fake.name())
 print(fake.address())
